@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\gameProject\gameProject\obj\Debug\netcoreapp3.1\gameProject.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\gameProject\gameProject\obj\Debug\netcoreapp3.1\gameProject.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\gameProject\gameProject\obj\Debug\netcoreapp3.1\gameProject.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\gameProject\gameProject\obj\Debug\netcoreapp3.1\gameProject.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\gameProject\gameProject\bin\Debug\netcoreapp3.1\gameProject.exe
+C:\Users\Lenovo\source\repos\gameProject\gameProject\bin\Debug\netcoreapp3.1\gameProject.deps.json
+C:\Users\Lenovo\source\repos\gameProject\gameProject\bin\Debug\netcoreapp3.1\gameProject.runtimeconfig.json
+C:\Users\Lenovo\source\repos\gameProject\gameProject\bin\Debug\netcoreapp3.1\gameProject.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\gameProject\gameProject\bin\Debug\netcoreapp3.1\gameProject.dll
+C:\Users\Lenovo\source\repos\gameProject\gameProject\bin\Debug\netcoreapp3.1\gameProject.pdb
+C:\Users\Lenovo\source\repos\gameProject\gameProject\obj\Debug\netcoreapp3.1\gameProject.dll
+C:\Users\Lenovo\source\repos\gameProject\gameProject\obj\Debug\netcoreapp3.1\gameProject.pdb
+C:\Users\Lenovo\source\repos\gameProject\gameProject\obj\Debug\netcoreapp3.1\gameProject.genruntimeconfig.cache

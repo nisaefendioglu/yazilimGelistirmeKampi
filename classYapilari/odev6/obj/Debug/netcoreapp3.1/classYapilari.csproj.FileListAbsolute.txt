@@ -1,0 +1,13 @@
+C:\Users\Lenovo\Desktop\YazilimGelistiriciKamp\odev6\odev6\bin\Debug\netcoreapp3.1\classYapilari.exe
+C:\Users\Lenovo\Desktop\YazilimGelistiriciKamp\odev6\odev6\bin\Debug\netcoreapp3.1\classYapilari.deps.json
+C:\Users\Lenovo\Desktop\YazilimGelistiriciKamp\odev6\odev6\bin\Debug\netcoreapp3.1\classYapilari.runtimeconfig.json
+C:\Users\Lenovo\Desktop\YazilimGelistiriciKamp\odev6\odev6\bin\Debug\netcoreapp3.1\classYapilari.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\YazilimGelistiriciKamp\odev6\odev6\bin\Debug\netcoreapp3.1\classYapilari.dll
+C:\Users\Lenovo\Desktop\YazilimGelistiriciKamp\odev6\odev6\bin\Debug\netcoreapp3.1\classYapilari.pdb
+C:\Users\Lenovo\Desktop\YazilimGelistiriciKamp\odev6\odev6\obj\Debug\netcoreapp3.1\classYapilari.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\YazilimGelistiriciKamp\odev6\odev6\obj\Debug\netcoreapp3.1\classYapilari.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\YazilimGelistiriciKamp\odev6\odev6\obj\Debug\netcoreapp3.1\classYapilari.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\YazilimGelistiriciKamp\odev6\odev6\obj\Debug\netcoreapp3.1\classYapilari.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\YazilimGelistiriciKamp\odev6\odev6\obj\Debug\netcoreapp3.1\classYapilari.dll
+C:\Users\Lenovo\Desktop\YazilimGelistiriciKamp\odev6\odev6\obj\Debug\netcoreapp3.1\classYapilari.pdb
+C:\Users\Lenovo\Desktop\YazilimGelistiriciKamp\odev6\odev6\obj\Debug\netcoreapp3.1\classYapilari.genruntimeconfig.cache

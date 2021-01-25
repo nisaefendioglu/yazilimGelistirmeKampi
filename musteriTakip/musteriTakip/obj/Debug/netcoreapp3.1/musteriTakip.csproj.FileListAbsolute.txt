@@ -1,0 +1,13 @@
+C:\Users\Lenovo\Desktop\YazilimGelistiriciKamp\musteriTakip\musteriTakip\obj\Debug\netcoreapp3.1\musteriTakip.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\YazilimGelistiriciKamp\musteriTakip\musteriTakip\obj\Debug\netcoreapp3.1\musteriTakip.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\YazilimGelistiriciKamp\musteriTakip\musteriTakip\obj\Debug\netcoreapp3.1\musteriTakip.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\YazilimGelistiriciKamp\musteriTakip\musteriTakip\obj\Debug\netcoreapp3.1\musteriTakip.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\YazilimGelistiriciKamp\musteriTakip\musteriTakip\bin\Debug\netcoreapp3.1\musteriTakip.exe
+C:\Users\Lenovo\Desktop\YazilimGelistiriciKamp\musteriTakip\musteriTakip\bin\Debug\netcoreapp3.1\musteriTakip.deps.json
+C:\Users\Lenovo\Desktop\YazilimGelistiriciKamp\musteriTakip\musteriTakip\bin\Debug\netcoreapp3.1\musteriTakip.runtimeconfig.json
+C:\Users\Lenovo\Desktop\YazilimGelistiriciKamp\musteriTakip\musteriTakip\bin\Debug\netcoreapp3.1\musteriTakip.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\YazilimGelistiriciKamp\musteriTakip\musteriTakip\bin\Debug\netcoreapp3.1\musteriTakip.dll
+C:\Users\Lenovo\Desktop\YazilimGelistiriciKamp\musteriTakip\musteriTakip\bin\Debug\netcoreapp3.1\musteriTakip.pdb
+C:\Users\Lenovo\Desktop\YazilimGelistiriciKamp\musteriTakip\musteriTakip\obj\Debug\netcoreapp3.1\musteriTakip.dll
+C:\Users\Lenovo\Desktop\YazilimGelistiriciKamp\musteriTakip\musteriTakip\obj\Debug\netcoreapp3.1\musteriTakip.pdb
+C:\Users\Lenovo\Desktop\YazilimGelistiriciKamp\musteriTakip\musteriTakip\obj\Debug\netcoreapp3.1\musteriTakip.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\myDictionary\myDictionary\bin\Debug\netcoreapp3.1\myDictionary.exe
+C:\Users\Lenovo\source\repos\myDictionary\myDictionary\bin\Debug\netcoreapp3.1\myDictionary.deps.json
+C:\Users\Lenovo\source\repos\myDictionary\myDictionary\bin\Debug\netcoreapp3.1\myDictionary.runtimeconfig.json
+C:\Users\Lenovo\source\repos\myDictionary\myDictionary\bin\Debug\netcoreapp3.1\myDictionary.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\myDictionary\myDictionary\bin\Debug\netcoreapp3.1\myDictionary.dll
+C:\Users\Lenovo\source\repos\myDictionary\myDictionary\bin\Debug\netcoreapp3.1\myDictionary.pdb
+C:\Users\Lenovo\source\repos\myDictionary\myDictionary\obj\Debug\netcoreapp3.1\myDictionary.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\myDictionary\myDictionary\obj\Debug\netcoreapp3.1\myDictionary.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\myDictionary\myDictionary\obj\Debug\netcoreapp3.1\myDictionary.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\myDictionary\myDictionary\obj\Debug\netcoreapp3.1\myDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\myDictionary\myDictionary\obj\Debug\netcoreapp3.1\myDictionary.dll
+C:\Users\Lenovo\source\repos\myDictionary\myDictionary\obj\Debug\netcoreapp3.1\myDictionary.pdb
+C:\Users\Lenovo\source\repos\myDictionary\myDictionary\obj\Debug\netcoreapp3.1\myDictionary.genruntimeconfig.cache
